@@ -5,10 +5,12 @@ S1 Visual Browser Agent is an experimental TypeScript browser-agent project for 
 ## Demo
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/riorillo/s1-visual-browser-agent/main/demo/demo.mp4" controls width="100%"></video>
-</p>
+  
 
-[Open or download the demo video](demo/demo.mp4).
+https://github.com/user-attachments/assets/e3eb8397-e1bc-4839-ae2f-e3a083762e7d
+
+
+</p>
 
 ## Inspiration
 
