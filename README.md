@@ -2,6 +2,14 @@
 
 S1 Visual Browser Agent is an experimental TypeScript browser-agent project for goal-driven UI automation. It observes a page, asks the Clef model to choose one of the actions it has actually observed, validates that choice locally, and executes it through Chrome DevTools Protocol (CDP).
 
+## Demo
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/riorillo/s1-visual-browser-agent/main/demo/demo.mp4" controls width="100%"></video>
+</p>
+
+[Open or download the demo video](demo/demo.mp4).
+
 ## Inspiration
 
 The text-based interaction mode is adapted from the `jev-ultrafast` repository, which inspired this project. S1 Visual Browser Agent builds on that foundation with an image-based mode that gives the Clef model a screenshot annotated with numbered controls, while keeping the same locally validated action path.
